@@ -24,7 +24,9 @@ The project itself demonstrates actual server deployment, front-end design, and 
 | *Version control* | Git/Github for documentation |
 | *SSL Certificate* | Let's encrypt |
 
-
-
-
-
+## Repository Contents
+| File/Folder | Description |
+|--------------|-------------|
+| `README.md` | Project details |
+| `setup.md` | Server configuration guide |
+| `script.sh` | Maintenance script |
