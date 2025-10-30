@@ -6,7 +6,7 @@
 
 ----- 
 
-##Overview:
+## Overview:
 This project is a website developed using HTML, CSS AND JavaScript, implementing a Linux-based web server (Apache 2).
 Making use of an IaaS platform, it would be hosted over Amazon Web Services EC2.
 This website would allow users to:
@@ -16,7 +16,7 @@ This website would allow users to:
 
 The project itself demonstrates actual server deployment, front-end design, and documentation skills.
 
-##Technology/Software used:
+## Technology/Software used:
 | Software | Description |
 | -------- | ----------- |
 | *Cloud Provider*| Amazon Web Services (AWS EC2) |
