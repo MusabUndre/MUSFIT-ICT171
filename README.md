@@ -1,4 +1,4 @@
-# ICT171-CLOUD SERVER PROJECT: MUSFITS.SITE
+# ICT171-Cloud Server Project: musfits.site
 **Name:** Musab Imran Undre  
 **Student ID:** 35832275  
 **Server domain:** musfits.com  
