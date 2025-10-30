@@ -7,8 +7,8 @@
 ----- 
 
 ## Overview:
-This project is a website developed using HTML, CSS AND JavaScript, implementing a Linux-based web server (Apache 2).
-Making use of an IaaS platform, it would be hosted over Amazon Web Services EC2.
+This project is a website developed using HTML, CSS AND JavaScript, implementing a Linux-based web server (Apache 2).  
+Making use of an IaaS platform, it would be hosted over Amazon Web Services EC2.  
 This website would allow users to:
 - Select muscle groups they would want to train
 - Select number of sets and repetitions for each exercise
