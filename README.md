@@ -25,7 +25,7 @@ The project itself demonstrates actual server deployment, front-end design, and 
 | *SSL Certificate* | Let's encrypt |
 
 ## Repository Contents
-| File/Folder | Description |
+| File | Description |
 |--------------|-------------|
 | `README.md` | Project details |
 | `setup.md` | Server configuration guide |
