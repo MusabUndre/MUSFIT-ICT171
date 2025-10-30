@@ -13,7 +13,6 @@ This website would allow users to:
 - Select muscle groups they would want to train
 - Select number of sets and repetitions for each exercise
 - Plan and organize these workouts across different days of the week
-
 The project itself demonstrates actual server deployment, front-end design, and documentation skills.
 
 ## Technology/Software used:
